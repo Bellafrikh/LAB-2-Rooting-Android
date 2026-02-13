@@ -219,12 +219,21 @@ Reset effectué : Oui, réinitialisation complète de l'AVD effectuée pour supp
 Restaurer l'AVD à son état d'usine pour éliminer toute trace de l'audit et prévenir la contamination de futurs tests.
 
 1. Réinitialisation de l'AVD :
+
+
 ![](https://github.com/user-attachments/assets/c9085942-9178-443b-8a58-e320848001d2)
 
 *Figure 14 : Sélection de l'option "Wipe Data"*
 
+
 2. Capture de preuve :
+
+
 ![](https://github.com/user-attachments/assets/521e22ae-ee39-4eba-8fb5-cd201eb77d05)
 
 
 *Figure 15 : Redémarrage faisant suite à la réinitialisation.*
+
+
+## Conclusion
+Cet audit a démontré l'importance de sécuriser les applications mobiles au-delà des protections natives d'Android. Grâce à l'accès root sur un Pixel 6 (API 35), j'ai pu identifier des vulnérabilités critiques comme le stockage de mots de passe en clair et des failles d'injection SQL.
