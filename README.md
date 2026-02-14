@@ -179,7 +179,7 @@ adb shell "su -c id"
 
 ## Etape 16: Traçabilité : fiche environnement 
 
-###Informations Générales
+### Informations Générales
 
 Auteur : BELLAFRIKH ZAYNAB.
 
@@ -193,14 +193,14 @@ Système : Android 15 (VanillaIceCream) avec API Level 35.
 
 Application : DIVA (Damn Insecure and Vulnerable App).
 
-###Synthèse des Observations
+### Synthèse des Observations
 Accès Privilégié : Succès de l'obtention des droits root (uid=0).
 
 État d'Intégrité : Verified Boot en état "orange" (chaîne de confiance rompue).
 
 Vulnérabilité Majeure : Stockage d'identifiants (Secret123!) en clair dans les préférences partagées.
 
-###Galerie des Preuves (Traçabilité)
+### Galerie des Preuves (Traçabilité)
 Preuve 1 : Lancement de l'application (Image 7).
 
 Preuve 2 : Confirmation du mode root (Image 2-3).
