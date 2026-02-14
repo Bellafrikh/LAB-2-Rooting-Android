@@ -67,9 +67,10 @@ Lancement de l'application DIVA et vérification de l'affichage du menu principa
 ##2.Rechercher un item
 Sélection du module "1. INSECURE LOGGING" pour tester la saisie de données.
 
-![](https://github.com/user-attachments/assets/d647fb50-8984-487c-a288-796af9709c58)
+![](https://github.com/user-attachments/assets/d647fb50-8984-487c-a288-796af9709c58) 
+![](https://github.com/user-attachments/assets/0055eb69-0fcc-436c-a133-1f49e404a63f)
 
-*Figure 10 : Exploitation d'une faille de validation d'entrée dans le module "Input Validation Issues - Part 2"*
+*Figure 10 : Exploitation d'une faille de validation d'entrée dans le module "Input Validation Issues - Part 2" && la recherche d un item*
 
 
 ##3.Ouvrir un détail (fiche produit/profil)
