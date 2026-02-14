@@ -77,9 +77,9 @@ Sélection du module "1. INSECURE LOGGING" pour tester la saisie de données.
 
 
 ![](https://github.com/user-attachments/assets/8b043136-71fd-4abe-ac9d-ebf6f5c5119e)
+![](https://github.com/user-attachments/assets/f4d75727-37a5-4130-9eb0-2a9ab8deab3f)
 
-
-*Figure 11 : Saisie d'identifiants de test dans le module "Insecure Data Storage - Part 1"*
+*Figure 11 : Saisie d'identifiants de test dans le module "Insecure Data Storage - Part 1" && Fiche de Setting*
 
 ![](https://github.com/user-attachments/assets/460ca2bb-031f-482a-90bc-f2017f95a931)
 
